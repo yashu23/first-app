@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2015",
+    "removeComments": true,
+    "outDir": "./bin",
+    "experimentalDecorators": true,
+  },
+  "include": ["src/**/*"]
+}
